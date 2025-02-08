@@ -1,5 +1,5 @@
 # Eniac's Extention project
-This project was completed as part of the Data Analyst Intensive Bootcamp at WBS coding school. The objective was to analyze data and provide insights to help Eniac determine whether to expand its business in Brazil through Magist.
+This teamwork project was completed as part of the Data Analyst Intensive Bootcamp at WBS Coding School. The objective was to analyze data and provide insights to help Eniac determine whether to expand its business in Brazil through Magist.
 ## Summary
 This repository contains an analysis of Eniac, a Spain-based online marketplace specializing in Apple-compatible accessories, as it explores expansion into the Brazilian market. The project evaluates whether Eniac should partner with Magist, a Brazilian e-commerce retailer based on market dynamics, business feasibility, and strategic fit.
 
